@@ -2,7 +2,7 @@
 name: Research
 about: Proof of concept or research
 title: "[Research]: "
-labels: backlog, poc
+labels: backlog, research
 assignees: ''
 
 ---
