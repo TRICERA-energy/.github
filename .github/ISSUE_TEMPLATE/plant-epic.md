@@ -1,7 +1,7 @@
 ---
-name: 📋 Plant Epic
-about: Overview of plant specific tasks
-title: "[Plant Epic]: "
+name: 📋 Site Epic
+about: Overview of site specific tasks
+title: "[Site Epic]: "
 labels: epic
 assignees: ''
 
